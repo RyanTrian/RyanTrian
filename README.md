@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full-Stack Developer
 ---------------------------
 
-Recently graduated from the University of Minnesota coding BootCamp, specializing in MERN stack, looking for new opportunities.
+I'm a recent graduate of the University of Minnesota Coding Bootcamp, where I specialized in the MERN stack and discovered my passion for building innovative web applications. Now, I'm on the hunt for new opportunities to showcase my skills and collaborate with like-minded individuals. Whether it's tackling complex coding challenges or bringing fresh ideas to the table, I'm excited to see where this journey takes me. Let's connect and build something amazing together!
 
 * 🌍  I'm based in Denver
 * 🖥️  See my portfolio at [portfolio](http://https://ryantrian.github.io/React-Portfolio)
