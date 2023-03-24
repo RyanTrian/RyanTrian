@@ -1,3 +1,5 @@
+![github banner 2 3x](https://user-images.githubusercontent.com/82792300/227643442-d9aa8ab4-9fdd-44ac-be49-845e6b555f57.png)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Truong
 ===================================================================================================================================
 
