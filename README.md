@@ -1,4 +1,4 @@
-![linkedin banner 2 2 3x](https://user-images.githubusercontent.com/82792300/227644411-99c99a17-e5d5-4f46-bf8c-676465b42936.png)
+![linkedin banner 2 2 3x](https://user-images.githubusercontent.com/82792300/230478274-0ddd9982-d93b-41fe-ae6a-4a4e6e01f566.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Minh Truong
 ===================================================================================================================================
